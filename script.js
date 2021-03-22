@@ -4,7 +4,7 @@ let heighth = 0
 let sum = 0
 let p = 0
 
-document.getElementById('calculate area').addEventListener('click',calculation)
+document.getElementById('calculate-area').addEventListener('click', calculation)
 
 function calculation () {
   base2 = document.getElementById('base-2').value
